@@ -1,4 +1,4 @@
-# ⚡ Input Gears - Premium Gear for Productivity
+# ⚡ Input Gears - Tech Gadget Store
 
 Welcome to **Input Gears**, a high-performance e-commerce platform built for tech enthusiasts. Experience a seamless shopping journey with a stunning, modern interface, robust back-office management, and state-of-the-art technology.
 
