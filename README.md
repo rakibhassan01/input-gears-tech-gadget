@@ -6,7 +6,7 @@ Welcome to **Input Gears**, a high-performance e-commerce platform built for tec
 
 ## 📸 Visual Preview
 
-![Input Gears Homepage](https://images.unsplash.com/photo-1460925895917-afdab827c52f?fm=jpg&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZSUyMGNvbW1lcmNlfGVufDB8fDB8fHww&ixlib=rb-4.1.0&q=60&w=2070)
+![Input Gears Homepage](/input-gears.webp)
 
 📖 **[View Full Case Study](https://rakibhassan.vercel.app/works/input-gears-ecommerce)**
 
@@ -14,7 +14,7 @@ Welcome to **Input Gears**, a high-performance e-commerce platform built for tec
 
 ## 🌐 Live Application
 
-**[🚀 Experience Input Gears Live](https://input-gears.vercel.app/)**
+**[🚀 Experience Input Gears Live](https://inputgears.vercel.app/)**
 
 ---
 
